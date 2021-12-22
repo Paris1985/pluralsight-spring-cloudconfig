@@ -8,10 +8,10 @@
 		<version>2.6.2</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.configserver</groupId>
-	<artifactId>configserver</artifactId>
+	<groupId>com.pluralsight</groupId>
+	<artifactId>configserver-git</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>configserver</name>
+	<name>configserver-git</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>11</java.version>
